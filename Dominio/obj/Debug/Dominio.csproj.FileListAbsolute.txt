@@ -1,0 +1,12 @@
+C:\Users\admin\Downloads\Dominio\bin\Debug\Dominio.dll
+C:\Users\admin\Downloads\Dominio\bin\Debug\Dominio.pdb
+C:\Users\admin\Downloads\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Dominio\obj\Debug\Dominio.dll
+C:\Users\admin\Downloads\Dominio\obj\Debug\Dominio.pdb
+C:\Users\admin\Downloads\GestionDeArticulos1\Dominio\bin\Debug\Dominio.dll
+C:\Users\admin\Downloads\GestionDeArticulos1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\admin\Downloads\GestionDeArticulos1\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\GestionDeArticulos1\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\GestionDeArticulos1\Dominio\obj\Debug\Dominio.dll
+C:\Users\admin\Downloads\GestionDeArticulos1\Dominio\obj\Debug\Dominio.pdb
